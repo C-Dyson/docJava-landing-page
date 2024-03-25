@@ -879,7 +879,7 @@ h2 {
         min-width: 9.375rem;
         padding: 0 2rem;
         background-color: var(--primary);
-        display: inline-block;
+        display: block;
         position: relative;
         z-index: 1;
         /* prevents padding from adding to the width */
