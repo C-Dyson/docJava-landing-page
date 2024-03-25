@@ -1304,14 +1304,14 @@ h2 {
     #cta-51 .cs-button-solid {
         font-size: 1rem;
         /* 46px - 56px */
-        line-height: clamp(2.875rem, 5.5vw, 3.5rem);
+        line-height: 1.5;
         text-decoration: none;
         font-weight: 700;
         text-align: center;
         margin: 0;
         color: #141414;
         min-width: 9.375rem;
-        padding: 0 1.5rem;
+        padding: 1rem;
         background-color: var(--primary);
         border-radius: 0.25rem;
         display: inline-block;
